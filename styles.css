@@ -1,0 +1,118 @@
+html { 
+	scroll-behavior: smooth;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: 17%;
+  width: 26%;
+}
+
+body{
+	background-image: url("mic back6.jpg");
+	background-size: cover;
+	background-position: top;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover{
+	color: #BDB76B;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-family: Asterone;
+	font-size:3.2vw;
+	line-height: 2;
+}
+h4{
+	line-height: 2;
+	letter-spacing: 3px;
+	font-size:1.6vw;
+
+}
+ hr { 
+		height:1px;  
+	margin: 5px auto;
+	width: 47%;
+		margin-top: 5px;
+		
+		} 
+
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.wrapper{
+	margin: 45px auto;
+	width: 43%;
+}
+#spacialstyle {
+  border-radius: 50%;
+  width: 55%;
+  float: right;
+  margin-left: 15px;
+ 
+}
+.text-box {
+   display: flex;
+   align-items:center;
+   letter-spacing: 3px;
+   line-height: 3;
+   text-align: left;
+   margin-right: 15px;
+   font-size:1.6vw;
+}
+h3{
+	color: black;
+	font-family: Centaur;
+	letter-spacing: 2px;
+}
+.wrappers{
+	margin: 1px auto;
+	width: 53%;
+	text-align: left;
+	color: black;
+	font-family: Centaur;
+	font-size: 32px;
+}
+
+.smallfont{
+	font-size:24px;
+	color: black;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 20px;
+}
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.row2:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column2 {
+  float: left;
+  width: 50%;
+  padding: 20px;
+}
+
+.link{
+	width: 70px;
+}
