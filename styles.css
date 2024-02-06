@@ -33,7 +33,7 @@ h1{
 h4{
 	line-height: 2;
 	letter-spacing: 3px;
-	font-size:1.6vw;
+	font-size:25px;
 
 }
  hr { 
@@ -77,11 +77,11 @@ h3{
 }
 .wrappers{
 	margin: 1px auto;
-	width: 53%;
+	width: 70%;
 	text-align: left;
 	color: black;
 	font-family: Centaur;
-	font-size: 32px;
+	font-size: 42px;
 }
 
 .smallfont{
