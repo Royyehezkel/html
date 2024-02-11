@@ -23,6 +23,10 @@ a {
 a:hover{
 	color: #BDB76B;
 }
+@font-face {
+  font-family: Asterone;
+  src: url(Asterone-Regular.otf);
+}
 h1{
 	text-align: center;
 	color: white;
